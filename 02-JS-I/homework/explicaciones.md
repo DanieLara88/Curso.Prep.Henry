@@ -1,0 +1,6 @@
+    *Variables es donde vamos a almacenar nuestros datos, los cuales van a variar segun los necesitemos pueden ser numero, letras, palabras, frases, booleanos, entre otros.
+	* Strings: son textos ya sea solo una letra o una palabra o una frase
+	* Funciones (argumentos, `return`); Los argumentos son los datos que vamos a insertar y la funcion hara algocon ellos ya sea imprimirlos, multiplicarlos, sumarlos o lo que sea que nosotros querramos que haga esa funcion. 
+	Return es el valor que va a retornar ducha funcion, cuando nosotros mandemas hablar a una funcion poniendo los argumentos que pide, la fucion devolvera un valor que es el return.
+	* Declaraciones `if`; son para hacer comparaciones, son condicionales, si sucede esto etonces has tal cosa, pero si no sucede has esta otra cosa.
+	* Valores booleanos (`true`, `false`): son banderas done nos dice si el valor es verdadero o falso, por ejemplo 5>1 cinco es mayor que uno el booleano o la bandera nos dira que es verdadero entonces si el valor es verdadero hacemos o con el valor falso lo mismo dependiendo lo que querramos hacer.
